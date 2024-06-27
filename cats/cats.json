@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "5faea43518f546d67bd867e1",
+    "id": "C-1",
+    "name": "Biscuit",
+    "weight": 10.2,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764387/thumbs/biscuit_tn_njuvwl.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764166/biscuit_inhtt3.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e2",
+    "id": "C-2",
+    "name": "Jungle",
+    "weight": 9.7,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764387/thumbs/jungle_tn_ayjti1.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764112/jungle_evdm47.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e3",
+    "id": "C-3",
+    "name": "Benji",
+    "weight": 10.9,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764387/thumbs/benji_tn_cjccyb.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764036/benji_rkg884.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e4",
+    "id": "C-4",
+    "name": "Beebee",
+    "weight": 13.3,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764387/thumbs/beebee_tn_ljyrpc.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763988/beebee_oqtgld.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e5",
+    "id": "C-5",
+    "name": "Pillow",
+    "weight": 8.3,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764388/thumbs/pillow_tn_owau6w.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764042/pillow_j9yenx.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e6",
+    "id": "C-6",
+    "name": "Buddy",
+    "weight": 9.2,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764387/thumbs/buddy_tn_syqsun.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764293/buddy_oln5er.jpg"
+    }
+  },
+  {
+    "_id": "5faea43518f546d67bd867e7",
+    "id": "C-7",
+    "name": "Mini",
+    "weight": 5.2,
+    "photo": {
+      "thumb": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764388/thumbs/mini_tn_jpjxnq.jpg",
+      "full": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764180/mini_stjtkm.jpg"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+type Dog {
+  id: ID!
+  name: String!
+  weight: Float!
+}
+
+type Query {
+  allDogs: [Dog!]!
+  dogCount: Int!
+}
